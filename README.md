@@ -1,15 +1,13 @@
 <p align="center">
-    <strong>Nomor 1: Halaman Daftar Lapangan</strong>
+    <strong>Nomor 1: Halaman Login</strong>
     <br>
-    <img src="https://github.com/Rafalah11/UnitySports/blob/KBT/storage/public/gambar/Screenshot%202025-02-06%20152841.png" width="400" alt="Halaman Daftar Lapangan (Admin)">
+    <img src="https://github.com/Rafalah11/BasisData-Arayaland/blob/ArayaLand/login%20arayaland%20basdat.jpg" width="400" alt="Halaman Daftar Lapangan (Admin)">
     <br><br>
-
-    <strong>Nomor 2: Halaman HomePage</strong>
+    <strong>Nomor 2: Halaman HomePage Admin</strong>
     <br>
-    <img src="https://github.com/Rafalah11/UnitySports/blob/KBT/storage/public/gambar/Screenshot%202025-02-06%20153514.png" width="400" alt="Halaman HomePage">
+    <img src="https://github.com/Rafalah11/BasisData-Arayaland/blob/ArayaLand/admin%20dashboard%20arayaland%20basdat.jpg" width="400" alt="Halaman HomePage">
     <br><br>
-
-    <strong>Nomor 3: Halaman Login</strong>
+    <strong>Nomor 3: Halaman Customer Properti</strong>
     <br>
-    <img src="https://github.com/Rafalah11/UnitySports/blob/KBT/storage/public/gambar/Screenshot%202025-02-06%20153836.png" width="400" alt="Halaman Login">
+    <img src="https://github.com/Rafalah11/BasisData-Arayaland/blob/ArayaLand/customer%20property%20arayaland%20basdat.jpg" width="400" alt="Halaman Login">
 </p>
